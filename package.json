@@ -1,0 +1,1 @@
+{"dependencies":{"next":"16","react":"19","react-dom":"19"},"devDependencies":{"@types/node":"^22","@types/react":"^19","@types/react-dom":"^19","typescript":"^5","vitest":"^3"},"name":"landlord-copilot","private":true,"scripts":{"build":"next build","dev":"next dev","start":"next start","test":"vitest run"},"version":"0.1.0"}
