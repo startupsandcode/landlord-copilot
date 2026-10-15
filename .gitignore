@@ -2,5 +2,9 @@ node_modules/
 .next/
 out/
 data/db.json
-.DS_Store
+.env
+.env.*
+.vercel/
 *.log
+*.tsbuildinfo
+.DS_Store
