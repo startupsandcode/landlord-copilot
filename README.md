@@ -56,4 +56,4 @@ A production system would need authenticated roles, per-property access controls
 
 ## License
 
-No license file is currently included. If the repository is made public without a license, visitors can read it but do not have explicit permission to reuse, modify, or redistribute it. Add a license before presenting the project as open source.
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
