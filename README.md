@@ -56,4 +56,4 @@ A production system would need authenticated roles, per-property access controls
 
 ## License
 
-No license file is currently included. The repository is public source only if its owner changes visibility; reuse rights still need to be specified.
+No license file is currently included. If the repository is made public without a license, visitors can read it but do not have explicit permission to reuse, modify, or redistribute it. Add a license before presenting the project as open source.
